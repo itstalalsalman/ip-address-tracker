@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: ()
-- Live Site URL: ()
+- Solution URL: (https://github.com/itstalalsalman/ip-address-tracker)
+- Live Site URL: (https://ip-address-tracker-eta-seven.vercel.app/)
 
 ## My process
 - I initiated the React project with the help of Vite (Vite optimizes code compilation and execution, which can result in a better end-user experience due to faster loading times and lower resource usage.).
